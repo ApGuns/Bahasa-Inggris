@@ -391,6 +391,13 @@ nav ul li a {
   padding: var(--sectionPadding);
 }
 
+.section-contact {
+  margin: 1rem 0 4rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+
 .contact {
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
